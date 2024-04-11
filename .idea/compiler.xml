@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="airport-api" />
+        <module name="my_first_crud" />
+        <module name="airport-core" />
+        <module name="example2_sem3" />
+        <module name="example3_sem2 (1)" />
+        <module name="my_first_crud (1)" />
+        <module name="example2_sem2" />
+        <module name="example1_sem3" />
+        <module name="empl4sem2CRUD" />
+        <module name="example1_sem4" />
+        <module name="airport-api (1)" />
+        <module name="example3_sem1" />
+        <module name="myapp" />
+        <module name="example3_sem2" />
+        <module name="example3_sem4" />
+        <module name="example2_sem2 (1)" />
+        <module name="myapp (1)" />
+        <module name="example3_sem1 (1)" />
+        <module name="airport-core (1)" />
+        <module name="example3_sem3_hometask" />
+        <module name="example1_sem2" />
+        <module name="example1_sem2 (1)" />
+        <module name="example2_sem4" />
+        <module name="empl4sem2CRUD (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="airport-api" options="-parameters" />
+      <module name="airport-api (1)" options="-parameters" />
+      <module name="airport-core" options="-parameters" />
+      <module name="airport-core (1)" options="-parameters" />
+      <module name="empl4sem2CRUD" options="-parameters" />
+      <module name="empl4sem2CRUD (1)" options="-parameters" />
+      <module name="example1_sem3" options="-parameters" />
+      <module name="example1_sem4" options="-parameters" />
+      <module name="example2_sem3" options="-parameters" />
+      <module name="example2_sem4" options="-parameters" />
+      <module name="example3_sem3_hometask" options="-parameters" />
+      <module name="example3_sem4" options="-parameters" />
+      <module name="my_first_crud" options="-parameters" />
+      <module name="my_first_crud (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
